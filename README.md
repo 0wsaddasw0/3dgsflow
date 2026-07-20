@@ -18,11 +18,6 @@
   <a href="https://3dgsflow.com/guide"><img src="https://img.shields.io/badge/高斯溅射指南-SEO%20Guide-111827?style=for-the-badge" alt="3DGS Guide" /></a>
 </p>
 
-<p align="center">
-  <a href="https://3dgsflow.com">
-    <img src="https://3dgsflow.com/image/mascot-hero.png" alt="3DGSFlow 吉祥物：水獭手持相机与三维展示窗，代表高斯溅射采集与交付" width="520" />
-  </a>
-</p>
 
 ---
 
