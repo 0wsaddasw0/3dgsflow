@@ -1,4 +1,4 @@
-# 3dgsflow
+
 <p align="center">
   <a href="https://3dgsflow.com">
     <img src="https://3dgsflow.com/image/mascot-mark.png" alt="3DGSFlow Logo 高斯溅射工作流" width="96" />
