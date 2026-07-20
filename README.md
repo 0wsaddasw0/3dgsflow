@@ -2,7 +2,7 @@
 3DGSFlow — 高斯溅射（3DGS）工作流：拍摄·训练·编辑·交付。浏览器精修与网页展览现已开放 | 3dgsflow.com
 <p align="center">
   <a href="https://3dgsflow.com">
-    <img src="public/image/mascot-mark.png" alt="3DGSFlow Logo 高斯溅射工作流" width="96" />
+    <img src="https://3dgsflow.com/image/mascot-mark.png" alt="3DGSFlow Logo 高斯溅射工作流" width="96" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://3dgsflow.com">
-    <img src="public/image/mascot-hero.png" alt="3DGSFlow 吉祥物：水獭手持相机与三维展示窗，代表高斯溅射采集与交付" width="520" />
+    <img src="https://3dgsflow.com/image/mascot-hero.png" alt="3DGSFlow 吉祥物：水獭手持相机与三维展示窗，代表高斯溅射采集与交付" width="520" />
   </a>
 </p>
 
